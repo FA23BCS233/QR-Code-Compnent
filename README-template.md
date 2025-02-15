@@ -24,8 +24,8 @@ The task was create a good looking qr component. I created this using the plain 
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: [https://github.com/FA23BCS233/QR-Code-Compnent](https://github.com/FA23BCS233/QR-Code-Compnent)
+- Live Site URL: [https://fa23bcs233.github.io/QR-Code-Compnent/](https://fa23bcs233.github.io/QR-Code-Compnent/)
 
 ## My process
 
